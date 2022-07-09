@@ -1,0 +1,9 @@
+img{
+    width: 350px;
+    height: 100%;
+    position: absolute;
+}
+div{
+    height: 150px;
+    position: relative;
+}
